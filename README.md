@@ -1,4 +1,4 @@
-# Automated Bank Transaction Analytics Pipeline
+# Automated Customer Transaction Analytics Pipeline
 
 > A full end-to-end data analytics pipeline that automates the extraction, transformation, analysis, and reporting of bank transaction data — built as a personal project to mirror real-world banking analytics workflows.
 
