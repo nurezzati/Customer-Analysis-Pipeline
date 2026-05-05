@@ -139,8 +139,6 @@ The automated report contains **8 sheets**:
 
 | Sheet | Contents |
 |---|---|
-| **Cover** | Executive summary with 5 KPI cards |
-| **Executive Dashboard** | All KPIs and charts consolidated in one view |
 | **Monthly Trend** | Month-by-month table + MoM % change + bar chart |
 | **Branch Analysis** | Volume, customers, avg transaction by branch + bar chart |
 | **Transaction Breakdown** | By type and product with pie chart |
