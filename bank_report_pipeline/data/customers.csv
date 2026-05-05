@@ -1,0 +1,201 @@
+customer_id,segment,branch,join_date
+CUS0001,Wealth Management,Kuala Lumpur,2018-04-13
+CUS0002,Wealth Management,Penang,2020-09-30
+CUS0003,Retail,Petaling Jaya,2019-02-24
+CUS0004,Wealth Management,Ipoh,2018-12-23
+CUS0005,Wealth Management,Johor Bahru,2018-05-11
+CUS0006,Retail,Kuala Lumpur,2020-06-14
+CUS0007,Retail,Ipoh,2018-04-19
+CUS0008,Wealth Management,Petaling Jaya,2022-09-15
+CUS0009,Retail,Johor Bahru,2021-02-13
+CUS0010,Retail,Petaling Jaya,2022-09-28
+CUS0011,SME,Penang,2019-09-29
+CUS0012,Retail,Penang,2019-02-23
+CUS0013,Retail,Johor Bahru,2019-02-01
+CUS0014,SME,Penang,2020-12-19
+CUS0015,Retail,Johor Bahru,2019-05-27
+CUS0016,SME,Kuala Lumpur,2021-04-15
+CUS0017,Wealth Management,Ipoh,2022-01-21
+CUS0018,Wealth Management,Petaling Jaya,2018-10-12
+CUS0019,Retail,Petaling Jaya,2021-03-31
+CUS0020,Retail,Petaling Jaya,2019-02-18
+CUS0021,SME,Penang,2023-02-01
+CUS0022,Wealth Management,Penang,2019-10-29
+CUS0023,SME,Penang,2020-05-08
+CUS0024,Wealth Management,Penang,2018-10-20
+CUS0025,Wealth Management,Petaling Jaya,2023-12-28
+CUS0026,Wealth Management,Petaling Jaya,2019-11-01
+CUS0027,SME,Johor Bahru,2021-01-10
+CUS0028,Wealth Management,Ipoh,2020-06-18
+CUS0029,Wealth Management,Penang,2018-08-18
+CUS0030,Retail,Kuala Lumpur,2021-07-16
+CUS0031,SME,Penang,2018-09-29
+CUS0032,Retail,Ipoh,2021-07-12
+CUS0033,Retail,Johor Bahru,2022-06-09
+CUS0034,Wealth Management,Johor Bahru,2019-08-09
+CUS0035,SME,Petaling Jaya,2020-10-07
+CUS0036,Wealth Management,Ipoh,2020-12-12
+CUS0037,Wealth Management,Ipoh,2022-10-21
+CUS0038,Wealth Management,Johor Bahru,2022-01-22
+CUS0039,Retail,Petaling Jaya,2023-09-19
+CUS0040,SME,Kuala Lumpur,2018-07-12
+CUS0041,Retail,Petaling Jaya,2019-10-18
+CUS0042,Wealth Management,Johor Bahru,2018-09-18
+CUS0043,SME,Johor Bahru,2023-04-02
+CUS0044,Wealth Management,Penang,2018-02-17
+CUS0045,Wealth Management,Kuala Lumpur,2020-12-28
+CUS0046,Wealth Management,Penang,2019-04-02
+CUS0047,SME,Johor Bahru,2019-10-10
+CUS0048,SME,Kuala Lumpur,2020-12-14
+CUS0049,Wealth Management,Petaling Jaya,2023-09-11
+CUS0050,Retail,Penang,2023-09-11
+CUS0051,Wealth Management,Petaling Jaya,2019-09-19
+CUS0052,SME,Petaling Jaya,2023-12-13
+CUS0053,Retail,Ipoh,2021-08-20
+CUS0054,SME,Kuala Lumpur,2019-04-04
+CUS0055,SME,Penang,2020-09-07
+CUS0056,Retail,Petaling Jaya,2018-11-19
+CUS0057,Retail,Johor Bahru,2018-10-11
+CUS0058,Wealth Management,Petaling Jaya,2019-06-10
+CUS0059,Wealth Management,Johor Bahru,2019-11-08
+CUS0060,SME,Ipoh,2022-09-30
+CUS0061,Retail,Ipoh,2020-04-03
+CUS0062,Wealth Management,Penang,2022-06-23
+CUS0063,Wealth Management,Penang,2022-11-30
+CUS0064,Wealth Management,Johor Bahru,2019-05-11
+CUS0065,Retail,Petaling Jaya,2018-09-20
+CUS0066,SME,Kuala Lumpur,2020-07-31
+CUS0067,Wealth Management,Petaling Jaya,2018-01-30
+CUS0068,Retail,Kuala Lumpur,2020-07-26
+CUS0069,Retail,Kuala Lumpur,2021-09-15
+CUS0070,Retail,Ipoh,2020-09-01
+CUS0071,SME,Johor Bahru,2020-05-27
+CUS0072,Wealth Management,Petaling Jaya,2023-04-21
+CUS0073,Retail,Johor Bahru,2022-07-26
+CUS0074,Retail,Kuala Lumpur,2019-02-02
+CUS0075,Wealth Management,Johor Bahru,2021-12-22
+CUS0076,SME,Johor Bahru,2023-03-28
+CUS0077,Wealth Management,Kuala Lumpur,2019-02-08
+CUS0078,Retail,Johor Bahru,2021-10-21
+CUS0079,Retail,Petaling Jaya,2020-02-24
+CUS0080,Retail,Ipoh,2023-01-12
+CUS0081,Retail,Johor Bahru,2020-01-22
+CUS0082,SME,Johor Bahru,2020-10-20
+CUS0083,Retail,Johor Bahru,2019-02-06
+CUS0084,Retail,Ipoh,2018-03-02
+CUS0085,Retail,Petaling Jaya,2019-11-13
+CUS0086,SME,Johor Bahru,2023-05-26
+CUS0087,Retail,Johor Bahru,2018-08-29
+CUS0088,Retail,Johor Bahru,2018-01-09
+CUS0089,SME,Penang,2023-02-07
+CUS0090,SME,Johor Bahru,2023-06-17
+CUS0091,Retail,Petaling Jaya,2021-04-30
+CUS0092,Retail,Kuala Lumpur,2018-09-07
+CUS0093,Wealth Management,Penang,2018-08-23
+CUS0094,Retail,Ipoh,2023-05-07
+CUS0095,Wealth Management,Ipoh,2019-10-07
+CUS0096,Retail,Ipoh,2018-11-25
+CUS0097,Retail,Kuala Lumpur,2018-10-06
+CUS0098,Wealth Management,Petaling Jaya,2022-07-12
+CUS0099,Retail,Ipoh,2020-10-05
+CUS0100,Wealth Management,Ipoh,2018-06-12
+CUS0101,Wealth Management,Kuala Lumpur,2022-09-14
+CUS0102,Wealth Management,Ipoh,2023-11-12
+CUS0103,SME,Penang,2020-04-16
+CUS0104,Wealth Management,Penang,2020-09-04
+CUS0105,SME,Johor Bahru,2019-06-21
+CUS0106,Wealth Management,Penang,2023-02-16
+CUS0107,SME,Kuala Lumpur,2018-02-08
+CUS0108,SME,Ipoh,2019-02-14
+CUS0109,Retail,Ipoh,2020-05-23
+CUS0110,Wealth Management,Penang,2019-06-27
+CUS0111,SME,Kuala Lumpur,2020-09-27
+CUS0112,SME,Penang,2019-10-09
+CUS0113,SME,Ipoh,2021-05-24
+CUS0114,Wealth Management,Ipoh,2018-02-02
+CUS0115,Wealth Management,Ipoh,2021-05-11
+CUS0116,Wealth Management,Kuala Lumpur,2019-07-05
+CUS0117,SME,Kuala Lumpur,2019-03-15
+CUS0118,Wealth Management,Ipoh,2019-09-29
+CUS0119,SME,Penang,2020-05-12
+CUS0120,Wealth Management,Penang,2020-04-13
+CUS0121,Wealth Management,Penang,2023-09-02
+CUS0122,SME,Penang,2018-07-28
+CUS0123,Retail,Johor Bahru,2021-02-07
+CUS0124,Retail,Kuala Lumpur,2021-09-28
+CUS0125,Retail,Penang,2019-10-24
+CUS0126,Wealth Management,Johor Bahru,2022-10-18
+CUS0127,Wealth Management,Kuala Lumpur,2019-04-04
+CUS0128,Retail,Petaling Jaya,2018-05-28
+CUS0129,SME,Ipoh,2019-08-30
+CUS0130,SME,Petaling Jaya,2018-06-21
+CUS0131,SME,Penang,2018-06-13
+CUS0132,SME,Petaling Jaya,2020-10-19
+CUS0133,Wealth Management,Kuala Lumpur,2021-12-19
+CUS0134,Wealth Management,Johor Bahru,2019-09-26
+CUS0135,Retail,Petaling Jaya,2019-12-27
+CUS0136,SME,Kuala Lumpur,2020-01-05
+CUS0137,Wealth Management,Penang,2022-08-14
+CUS0138,Wealth Management,Petaling Jaya,2020-12-28
+CUS0139,Retail,Kuala Lumpur,2022-04-16
+CUS0140,Retail,Johor Bahru,2020-06-30
+CUS0141,Retail,Johor Bahru,2021-12-03
+CUS0142,SME,Petaling Jaya,2020-07-02
+CUS0143,Retail,Petaling Jaya,2022-06-21
+CUS0144,SME,Penang,2018-10-12
+CUS0145,SME,Penang,2023-09-18
+CUS0146,SME,Ipoh,2021-09-18
+CUS0147,Retail,Kuala Lumpur,2020-12-05
+CUS0148,Retail,Ipoh,2020-12-23
+CUS0149,Retail,Kuala Lumpur,2022-11-15
+CUS0150,SME,Penang,2022-11-23
+CUS0151,Wealth Management,Ipoh,2019-04-19
+CUS0152,SME,Ipoh,2020-02-18
+CUS0153,SME,Kuala Lumpur,2022-11-22
+CUS0154,Retail,Ipoh,2020-03-18
+CUS0155,SME,Johor Bahru,2018-10-14
+CUS0156,Wealth Management,Penang,2021-07-09
+CUS0157,Wealth Management,Kuala Lumpur,2021-05-15
+CUS0158,Wealth Management,Penang,2022-07-31
+CUS0159,SME,Johor Bahru,2021-04-26
+CUS0160,Wealth Management,Petaling Jaya,2020-02-25
+CUS0161,SME,Johor Bahru,2019-12-14
+CUS0162,Wealth Management,Ipoh,2021-05-17
+CUS0163,SME,Ipoh,2018-01-02
+CUS0164,SME,Penang,2020-05-10
+CUS0165,SME,Ipoh,2021-08-12
+CUS0166,SME,Johor Bahru,2022-12-17
+CUS0167,Wealth Management,Petaling Jaya,2023-09-25
+CUS0168,SME,Petaling Jaya,2018-12-14
+CUS0169,SME,Ipoh,2021-10-04
+CUS0170,Retail,Petaling Jaya,2021-06-25
+CUS0171,Retail,Petaling Jaya,2019-08-27
+CUS0172,Retail,Kuala Lumpur,2020-09-29
+CUS0173,SME,Ipoh,2018-10-26
+CUS0174,SME,Johor Bahru,2020-03-07
+CUS0175,Wealth Management,Johor Bahru,2023-07-18
+CUS0176,SME,Petaling Jaya,2019-08-28
+CUS0177,Wealth Management,Kuala Lumpur,2019-03-13
+CUS0178,SME,Petaling Jaya,2019-12-22
+CUS0179,Wealth Management,Ipoh,2023-03-18
+CUS0180,Retail,Ipoh,2020-10-17
+CUS0181,Retail,Johor Bahru,2019-07-01
+CUS0182,SME,Ipoh,2021-07-23
+CUS0183,SME,Ipoh,2023-08-30
+CUS0184,SME,Ipoh,2023-01-01
+CUS0185,Retail,Johor Bahru,2023-01-18
+CUS0186,SME,Petaling Jaya,2021-02-09
+CUS0187,Wealth Management,Johor Bahru,2020-09-06
+CUS0188,SME,Johor Bahru,2018-11-14
+CUS0189,Wealth Management,Penang,2020-08-18
+CUS0190,SME,Penang,2021-08-02
+CUS0191,Wealth Management,Kuala Lumpur,2019-07-21
+CUS0192,Retail,Petaling Jaya,2022-04-18
+CUS0193,Wealth Management,Petaling Jaya,2020-05-26
+CUS0194,Retail,Johor Bahru,2022-07-28
+CUS0195,SME,Ipoh,2023-03-24
+CUS0196,SME,Kuala Lumpur,2020-04-27
+CUS0197,SME,Johor Bahru,2018-03-22
+CUS0198,Wealth Management,Johor Bahru,2023-05-08
+CUS0199,Retail,Penang,2021-05-08
+CUS0200,SME,Johor Bahru,2020-06-22
