@@ -213,7 +213,7 @@ Trigger : Weekly, Monday 8:00 AM
 75 out of 4,853 transactions (1.5%) were flagged as statistical outliers — but these transactions represented a disproportionately high share of total volume, highlighting why compliance monitoring cannot rely on manual review alone.
 
 **2. Segment value gap**
-Wealth Management customers were significantly fewer in number than Retail customers but generated a much higher average transaction value per customer — confirming that segment-aware benchmarking is essential. A single Wealth customer lost is not equivalent to a single Retail customer lost.
+Customer segments are almost fairly distributed by each group but Wealth Management customers generated a much higher average transaction value per customer — confirming that segment-aware benchmarking is essential. A single Wealth customer lost is not equivalent to a single Retail customer lost.
 
 **3. Seasonal patterns**
 Monthly trend analysis revealed clear peak and low months across the year. The pipeline automatically classifies each month as Peak (>120% of annual average), Normal, or Low (<80%) — enabling proactive staffing and liquidity decisions rather than reactive ones.
